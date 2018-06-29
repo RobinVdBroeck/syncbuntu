@@ -1,0 +1,4 @@
+{
+  "ppa": ["tista/adapta", "snwh/ppa"],
+  "apt": ["adapta-gtk-theme", "adapta-backgrounds", "paper-icon-theme"]
+}
